@@ -3,9 +3,9 @@
 ### 1. Stock Data Analysis 📈
 - Using Python, fetched historical stock data for any 5 stocks from the Nifty 50 index using the `yfinance` library. Used a time range of the last 6 months.
 - Performs the following analyses on the data:
-- a. Calculates the daily percentage change for each stock.
-- b. Plots the closing prices and daily percentage changes for the 5 stocks.
-- c. Calculates the moving average (20-day) for each stock and plot it against the stock's closing price.
+    a. Calculates the daily percentage change for each stock.
+    b. Plots the closing prices and daily percentage changes for the 5 stocks.
+    c. Calculates the moving average (20-day) for each stock and plot it against the stock's closing price.
 
 ### 2. Strategy Development 🪖
 - Developed a simple moving average crossover strategy for one of the 5 stocks. The strategy involves a short-term moving average (e.g., 50-day) and a long-term moving average (e.g., 200-day).
