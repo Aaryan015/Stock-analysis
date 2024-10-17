@@ -1,4 +1,4 @@
-## The main 3 modules of this repository: 👜
+## The 3 main components of this repository: 👜
 
 ### 1. Stock Data Analysis 📈
 - Using Python, fetched historical stock data for any 5 stocks from the Nifty 50 index using the `yfinance` library. Uses a time range of the last 6 months.
