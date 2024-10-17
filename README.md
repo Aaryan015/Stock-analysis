@@ -16,4 +16,4 @@
 - Calculated the maximum drawdown for each stock over the 6-month period.
 - For the stocks selected in module 2, implemented a stop-loss mechanism. Assumed a stop loss of 5%. Re-ran the strategy with the stop-loss and compared the performance to the original strategy. 
 
-\nThe Jupyter Notebook contains all the necessary plots and explanations and is well-documented with comments and explanations where necessary.✨
+### The Jupyter Notebook contains all the necessary plots and explanations and is well-documented with comments and explanations where necessary.✨
