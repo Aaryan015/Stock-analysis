@@ -1,7 +1,7 @@
 ## The 3 main components of this repository: 👜
 
 ### 1. Stock Data Analysis 📈
-- Using Python, fetched historical stock data for any 5 stocks from the Nifty 50 index using the `yfinance` library. Uses a time range of the last 6 months.
+- Using Python, fetched historical stock data for any 5 stocks from the Nifty 50 index using the `yfinance` library. Used a time range of the last 6 months.
 - Performs the following analyses on the data: 
   a. Calculates the daily percentage change for each stock. 
   b. Plots the closing prices and daily percentage changes for the 5 stocks. 
